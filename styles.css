@@ -1,0 +1,22 @@
+body{background-color: black;}
+
+h1{margin-left: 100px;}
+
+.mainLogo{margin-left: 490px; margin-top: -50px; margin-top: 20px;}
+
+#cgiWorkTable{border: 5px ridge red; width: 690px; height: 100px; margin-top: 50px;}
+
+#cgiWorkTable2{border: 5px ridge red; width: 690px; height: 100px; margin-top: 50px;}
+
+.tableHeading{color:red; padding: 15px; font-size: 1.4em; font-family: arial black; font-style: italic; padding-left: 250px; border: 5px solid black; background: repeating-linear-gradient(45deg, #000000, #000000 10px, #383838 10px, #383838 20px);}
+
+#tableHeading2{color:red; padding: 15px; font-size: 1.4em; font-family: arial black; font-style: italic; padding-left: 250px; border: 5px solid black; background: repeating-linear-gradient(135deg, #000000, #000000 10px, #383838 10px, #383838 20px); background-color: white;}
+
+#gameDevelopmentTableHeading{color:red; padding: 15px; font-size: 1.4em; font-family: arial black; font-style: italic; padding-left: 70px; border: 5px solid black; background: repeating-linear-gradient(45deg, #000000, #000000 10px, #383838 10px, #383838 20px);}
+
+#creativeWritingTableHeading{color:red; padding: 15px; font-size: 1.4em; font-family: arial black; font-style: italic; padding-left: 250px; border: 5px solid black; background: repeating-linear-gradient(135deg, #000000, #000000 10px, #383838 10px, #383838 20px);}
+
+.workDescriptionText{color: white; border: 2px ridge white; width: 500px; margin-right:300px; padding: 10px;}
+
+.navbar{border: 2px solid red; font-size: 1.4em; color: red; font-family: impact; width: 1360px; margin-left: 70px; height: 32px; padding-top:7px; background: repeating-linear-gradient(45deg, #000000, #000000 10px, #bd0900 10px, #bd0900 20px); margin-top: 10px;}
+.navbar a{color: red; margin-left: 65px;  margin-right: 65px; padding-left: 5px; padding-right: 5px; background-color: black; border: 2px solid orange;}
