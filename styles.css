@@ -31,7 +31,9 @@ h1{margin-left: 100px;}
 
 #receiverReview{border: 2px solid red; padding: 20px; margin-top: 30px; width: 700px;}
 #receiverReview2{border: 2px solid red; padding: 20px; margin-top:40px; width: 700px; margin-left: 720px;}
-#receiverReview3{border: 2px solid red; padding: 20px; margin-top:40px; width: 700px;}
+#receiverReview3{border: 2px solid red; padding: 20px; margin-top:40px; width: 700px; margin-top:100px;}
+#receiverReview4{border: 2px solid red; padding: 20px; margin-top:40px; width: 1400px; margin-left: 0px;}
+#receiverReview5{border: 2px solid red; padding: 20px; margin-top:40px; width: 700px; margin-left: 0px;}
 
 
 .receiverReviewText{color: red; font-size: 1.1em; font-family: Helvetica;}
